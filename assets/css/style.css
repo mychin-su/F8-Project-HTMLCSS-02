@@ -28,7 +28,7 @@ a {
     font-size: 1.6rem;
     text-align: center;
     color: #ffffff;
-    background: #171100;
+    background: #100c5d;
     border-radius: 999px;
     padding: 0 16px;
     min-width: 118px;
@@ -67,7 +67,7 @@ a {
 .main-content {
     width: 1170px;
     margin: 0 auto;
-    max-width: calc(100%-48px);
+    max-width: calc(100% - 48px);
 }
 
 .line-clamp {
@@ -150,7 +150,7 @@ a {
 }
 
 .header .action {
-    margin-right: 49px;
+    margin-left: 49px;
 }
 
 /* ======Hero====== */
